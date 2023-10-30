@@ -1,0 +1,1636 @@
+The Dart VM service is listening on http://127.0.0.1:54465/vxrXvCtivOc=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:54465/vxrXvCtivOc=/devtools?uri=ws://127.0.0.1:54465/vxrXvCtivOc=/ws
+The Dart VM service is listening on http://127.0.0.1:54541/aSZTs9QdP54=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:54541/aSZTs9QdP54=/devtools?uri=ws://127.0.0.1:54541/aSZTs9QdP54=/ws
+The Dart VM service is listening on http://127.0.0.1:54579/lcqxSw4Fq_w=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:54579/lcqxSw4Fq_w=/devtools?uri=ws://127.0.0.1:54579/lcqxSw4Fq_w=/ws
+The Dart VM service is listening on http://127.0.0.1:54625/dU4ed1YjR4Y=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:54625/dU4ed1YjR4Y=/devtools?uri=ws://127.0.0.1:54625/dU4ed1YjR4Y=/ws
+The Dart VM service is listening on http://127.0.0.1:54662/uJfd1iEUfgc=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:54662/uJfd1iEUfgc=/devtools?uri=ws://127.0.0.1:54662/uJfd1iEUfgc=/ws
+The Dart VM service is listening on http://127.0.0.1:54750/qimwlkMDvJc=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:54750/qimwlkMDvJc=/devtools?uri=ws://127.0.0.1:54750/qimwlkMDvJc=/ws
+The Dart VM service is listening on http://127.0.0.1:55626/UUtnA7SSbXQ=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:55626/UUtnA7SSbXQ=/devtools?uri=ws://127.0.0.1:55626/UUtnA7SSbXQ=/ws
+The Dart VM service is listening on http://127.0.0.1:55703/3XqBWLZUyD4=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:55703/3XqBWLZUyD4=/devtools?uri=ws://127.0.0.1:55703/3XqBWLZUyD4=/ws
+[avoid_dynamic] 2023-10-28T13:10:00.539676 nodes: []
+[avoid_dynamic] 2023-10-28T13:10:00.541130 nodes: []
+[avoid_dynamic] 2023-10-28T13:10:00.541343 nodes: []
+[avoid_dynamic] 2023-10-28T13:11:19.435454 nodes: []
+[avoid_dynamic] 2023-10-28T13:11:19.435851 nodes: []
+[avoid_dynamic] 2023-10-28T13:11:19.436394 nodes: []
+[avoid_dynamic] 2023-10-28T13:11:31.292920 nodes: []
+[avoid_dynamic] 2023-10-28T13:11:31.293359 nodes: []
+[avoid_dynamic] 2023-10-28T13:11:31.293508 nodes: []
+[avoid_dynamic] 2023-10-28T13:12:47.963010 nodes: []
+[avoid_dynamic] 2023-10-28T13:12:47.963460 nodes: []
+[avoid_dynamic] 2023-10-28T13:12:47.963840 nodes: []
+[avoid_dynamic] 2023-10-28T13:13:03.143834 nodes: []
+[avoid_dynamic] 2023-10-28T13:13:03.144276 nodes: []
+[avoid_dynamic] 2023-10-28T13:13:03.145036 nodes: []
+[avoid_dynamic] 2023-10-28T13:13:15.193724 nodes: []
+[avoid_dynamic] 2023-10-28T13:13:15.194122 nodes: []
+[avoid_dynamic] 2023-10-28T13:13:15.194442 nodes: []
+[avoid_dynamic] 2023-10-28T13:13:15.719210 nodes: []
+[avoid_dynamic] 2023-10-28T13:13:15.719658 nodes: []
+[avoid_dynamic] 2023-10-28T13:13:15.719817 nodes: []
+[avoid_dynamic] 2023-10-28T13:13:17.200864 nodes: []
+[avoid_dynamic] 2023-10-28T13:13:17.201396 nodes: []
+[avoid_dynamic] 2023-10-28T13:13:17.201581 nodes: []
+[avoid_dynamic] 2023-10-28T13:15:32.329403 parent: print(foo)
+[avoid_dynamic] 2023-10-28T13:15:32.329830 parent: (foo)
+[avoid_dynamic] 2023-10-28T13:17:19.538835 parent: print(foo)
+[avoid_dynamic] 2023-10-28T13:17:19.539323 parent: (foo)
+[avoid_dynamic] 2023-10-28T13:17:21.601577 parent: print(foo)
+[avoid_dynamic] 2023-10-28T13:17:21.601999 parent: (foo)
+[avoid_dynamic] 2023-10-28T13:17:21.629142 parent: print(foo)
+[avoid_dynamic] 2023-10-28T13:17:21.631826 parent: (foo)
+[avoid_dynamic] 2023-10-28T13:17:21.687688 parent: print(foo)
+[avoid_dynamic] 2023-10-28T13:17:21.688075 parent: (foo)
+[avoid_dynamic] 2023-10-28T13:17:21.812522 parent: print(foo)
+[avoid_dynamic] 2023-10-28T13:17:21.812948 parent: (foo)
+[avoid_dynamic] 2023-10-28T13:17:21.823531 parent: print(foo)
+[avoid_dynamic] 2023-10-28T13:17:21.824027 parent: (foo)
+[avoid_dynamic] 2023-10-28T13:17:23.256859 parent: print(foo)
+[avoid_dynamic] 2023-10-28T13:17:23.257298 parent: (foo)
+[avoid_dynamic] 2023-10-28T13:17:43.548352 parent: false
+[avoid_dynamic] 2023-10-28T13:17:43.548679 parent: false
+[avoid_dynamic] 2023-10-28T13:18:00.785656 parent: MethodInvocationImpl
+[avoid_dynamic] 2023-10-28T13:18:00.786089 parent: ArgumentListImpl
+[avoid_dynamic] 2023-10-28T13:18:26.142727 parent: false
+[avoid_dynamic] 2023-10-28T13:18:26.143126 parent: false
+[avoid_dynamic] 2023-10-28T13:18:30.280875 parent: print
+[avoid_dynamic] 2023-10-28T13:18:30.281434 parent: foo
+[avoid_dynamic] 2023-10-28T13:19:00.757284 parent: void Function(Object?)
+[avoid_dynamic] 2023-10-28T13:19:00.757575 parent: dynamic
+[avoid_dynamic] 2023-10-28T13:19:32.403219 parent: void Function(Object?)
+[avoid_dynamic] 2023-10-28T13:19:32.403717 parent: dynamic
+[avoid_dynamic] 2023-10-28T13:20:34.711993 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:34.712450 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:34.712591 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:41.975066 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:41.975451 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:41.975599 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:42.073739 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:42.074179 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:42.074325 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:42.078470 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:42.078930 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:42.079248 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:43.494834 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:43.495355 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:43.495578 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:46.535661 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:46.536054 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:46.536206 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:46.650318 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:46.650692 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:46.650847 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:48.146562 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:48.146928 nodes: []
+[avoid_dynamic] 2023-10-28T13:20:48.147069 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:00.049866 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:00.050276 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:00.050743 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:01.973379 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:01.973885 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:01.974127 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:02.117702 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:02.118095 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:02.118242 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:02.327887 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:02.328901 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:02.329137 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:03.453181 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:03.453701 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:03.454021 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:05.193981 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:05.194373 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:05.194524 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:06.451511 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:06.451900 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:06.452046 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:07.966926 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:07.967297 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:07.967448 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:09.455822 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:09.456211 nodes: []
+[avoid_dynamic] 2023-10-28T13:21:09.456351 nodes: []
+The Dart VM service is listening on http://127.0.0.1:57391/SYUaTMjwb4s=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:57391/SYUaTMjwb4s=/devtools?uri=ws://127.0.0.1:57391/SYUaTMjwb4s=/ws
+The Dart VM service is listening on http://127.0.0.1:57614/GSvqMDLmomA=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:57614/GSvqMDLmomA=/devtools?uri=ws://127.0.0.1:57614/GSvqMDLmomA=/ws
+The Dart VM service is listening on http://127.0.0.1:57678/cccMGGNphwQ=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:57678/cccMGGNphwQ=/devtools?uri=ws://127.0.0.1:57678/cccMGGNphwQ=/ws
+The request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request throw the exception:ParsedYamlException: line 1, column 1: Not a map
+  ╷
+1 │ 
+  │ ^
+  ╵
+#0      checkedYamlDecode (package:checked_yaml/checked_yaml.dart:42:5)
+#1      new Pubspec.parse (package:pubspec_parse/src/pubspec.dart:167:7)
+#2      parsePubspec (package:custom_lint/src/package_utils.dart:84:18)
+<asynchronous suspension>
+#3      CustomLintPluginClient._updateActivePluginList (package:custom_lint_builder/src/client.dart:181:23)
+<asynchronous suspension>
+#4      _ClientAnalyzerPlugin.afterNewContextCollection.<anonymous closure> (package:custom_lint_builder/src/client.dart:383:7)
+<asynchronous suspension>
+#5      _ClientAnalyzerPlugin._runOperation (package:custom_lint_builder/src/client.dart:855:14)
+<asynchronous suspension>
+#6      ServerPlugin.handleAnalysisSetContextRoots (package:analyzer_plugin/plugin/plugin.dart:273:5)
+<asynchronous suspension>
+#7      ServerPlugin._getResponse (package:analyzer_plugin/plugin/plugin.dart:536:18)
+<asynchronous suspension>
+#8      ServerPlugin._onRequest (package:analyzer_plugin/plugin/plugin.dart:599:18)
+<asynchronous suspension>
+
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:282:11)
+#1      _$_CustomLintResponseAnalyzerPluginResponse.map (package:custom_lint/src/v2/protocol.freezed.dart:924:34)
+#2      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:276:14)
+<asynchronous suspension>
+#3      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:253:22)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      SocketCustomLintServerToClientChannel.init (package:custom_lint/src/v2/server_to_client_channel.dart:145:5)
+<asynchronous suspension>
+#6      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:364:5)
+<asynchronous suspension>
+#7      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:328:9)
+<asynchronous suspension>
+#8      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#9      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:160:22)
+<asynchronous suspension>
+
+The Dart VM service is listening on http://127.0.0.1:57835/EeYLBOHHV-k=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:57835/EeYLBOHHV-k=/devtools?uri=ws://127.0.0.1:57835/EeYLBOHHV-k=/ws
+[custom_lint] 2023-10-28T13:29:43.896575 /Users/egonmeijers/development/dart_custom_lint/lib/src/lint_rules/avoid_dynamic/visitor.dart:8:3: Error: Variables must be declared using the keywords 'const', 'final', 'var' or a type name.
+[custom_lint] 2023-10-28T13:29:43.896575 Try adding the name of the type of the variable or the keyword 'var'.
+[custom_lint] 2023-10-28T13:29:43.896575   visitVar
+[custom_lint] 2023-10-28T13:29:43.896575   ^^^^^^^^
+[custom_lint] 2023-10-28T13:29:43.896575 /Users/egonmeijers/development/dart_custom_lint/lib/src/lint_rules/avoid_dynamic/visitor.dart:8:3: Error: Expected ';' after this.
+[custom_lint] 2023-10-28T13:29:43.896575   visitVar
+[custom_lint] 2023-10-28T13:29:43.896575   ^^^^^^^^
+[custom_lint] 2023-10-28T13:29:43.896575
+[custom_lint] 2023-10-28T13:29:43.896575
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:242:11)
+<asynchronous suspension>
+#1      Future.any.onValue (dart:async/future.dart:615:5)
+<asynchronous suspension>
+
+The Dart VM service is listening on http://127.0.0.1:58004/lqKJ8n5b138=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:58004/lqKJ8n5b138=/devtools?uri=ws://127.0.0.1:58004/lqKJ8n5b138=/ws
+[custom_lint] 2023-10-28T13:30:35.150209 /Users/egonmeijers/development/dart_custom_lint/lib/src/lint_rules/avoid_dynamic/visitor.dart:8:3: Error: Variables must be declared using the keywords 'const', 'final', 'var' or a type name.
+[custom_lint] 2023-10-28T13:30:35.150209 Try adding the name of the type of the variable or the keyword 'var'.
+[custom_lint] 2023-10-28T13:30:35.150209   visitVar
+[custom_lint] 2023-10-28T13:30:35.150209   ^^^^^^^^
+[custom_lint] 2023-10-28T13:30:35.150209 /Users/egonmeijers/development/dart_custom_lint/lib/src/lint_rules/avoid_dynamic/visitor.dart:8:3: Error: Expected ';' after this.
+[custom_lint] 2023-10-28T13:30:35.150209   visitVar
+[custom_lint] 2023-10-28T13:30:35.150209   ^^^^^^^^
+[custom_lint] 2023-10-28T13:30:35.150209
+[custom_lint] 2023-10-28T13:30:35.150209
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:242:11)
+<asynchronous suspension>
+#1      Future.any.onValue (dart:async/future.dart:615:5)
+<asynchronous suspension>
+
+The Dart VM service is listening on http://127.0.0.1:58155/YcKcaYmh41M=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:58155/YcKcaYmh41M=/devtools?uri=ws://127.0.0.1:58155/YcKcaYmh41M=/ws
+[custom_lint] 2023-10-28T13:31:09.401274 /Users/egonmeijers/development/dart_custom_lint/lib/src/lint_rules/avoid_dynamic/visitor.dart:8:3: Error: Variables must be declared using the keywords 'const', 'final', 'var' or a type name.
+[custom_lint] 2023-10-28T13:31:09.401274 Try adding the name of the type of the variable or the keyword 'var'.
+[custom_lint] 2023-10-28T13:31:09.401274   visitVar
+[custom_lint] 2023-10-28T13:31:09.401274   ^^^^^^^^
+[custom_lint] 2023-10-28T13:31:09.401274 /Users/egonmeijers/development/dart_custom_lint/lib/src/lint_rules/avoid_dynamic/visitor.dart:8:3: Error: Expected ';' after this.
+[custom_lint] 2023-10-28T13:31:09.401274   visitVar
+[custom_lint] 2023-10-28T13:31:09.401274   ^^^^^^^^
+[custom_lint] 2023-10-28T13:31:09.401274
+[custom_lint] 2023-10-28T13:31:09.401274
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:242:11)
+<asynchronous suspension>
+#1      Future.any.onValue (dart:async/future.dart:615:5)
+<asynchronous suspension>
+
+The Dart VM service is listening on http://127.0.0.1:58257/Fn5Pg50DEC0=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:58257/Fn5Pg50DEC0=/devtools?uri=ws://127.0.0.1:58257/Fn5Pg50DEC0=/ws
+The Dart VM service is listening on http://127.0.0.1:58329/w90lfVWU-1c=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:58329/w90lfVWU-1c=/devtools?uri=ws://127.0.0.1:58329/w90lfVWU-1c=/ws
+The Dart VM service is listening on http://127.0.0.1:58444/za8oX6B21H0=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:58444/za8oX6B21H0=/devtools?uri=ws://127.0.0.1:58444/za8oX6B21H0=/ws
+[avoid_dynamic] 2023-10-28T13:40:02.417128 nodes: []
+[avoid_dynamic] 2023-10-28T13:40:42.642070 nodes: []
+[avoid_dynamic] 2023-10-28T13:40:42.646131 nodes: []
+[avoid_dynamic] 2023-10-28T13:40:46.508829 nodes: []
+The Dart VM service is listening on http://127.0.0.1:58789/YGexmHRzthE=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:58789/YGexmHRzthE=/devtools?uri=ws://127.0.0.1:58789/YGexmHRzthE=/ws
+[avoid_dynamic] 2023-10-28T13:45:25.834659 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:46:59.123059 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:46:59.143371 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:46:59.147870 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:46:59.149077 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:46:59.149315 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:46:59.149461 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:47:00.479610 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:51:32.190826 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:51:32.854062 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:51:33.084797 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:51:39.414001 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:51:46.168247 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:51:49.912454 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:51:50.346128 source: Instance of 'ResolvedUnitResultImpl'
+[avoid_dynamic] 2023-10-28T13:51:51.394161 source: Instance of 'ResolvedUnitResultImpl'
+The Dart VM service is listening on http://127.0.0.1:59352/v0QKsSo46Xw=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:59352/v0QKsSo46Xw=/devtools?uri=ws://127.0.0.1:59352/v0QKsSo46Xw=/ws
+The Dart VM service is listening on http://127.0.0.1:60005/Zlz_JgnBxI4=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:60005/Zlz_JgnBxI4=/devtools?uri=ws://127.0.0.1:60005/Zlz_JgnBxI4=/ws
+[avoid_dynamic] 2023-10-28T14:13:15.319185 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:53.194342 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:54.560041 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:54.683687 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:54.963032 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:55.126758 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:55.222955 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:55.377213 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:55.442374 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:55.649715 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:55.879948 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:55.954909 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:56.090327 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:56.685706 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:57.083795 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:57.322243 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:57.634781 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:57.743408 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:57.833682 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:58.004300 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:58.100428 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:58.420831 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:58.646616 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:58.778829 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:58.905624 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:59.181884 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:59.479478 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:59.492352 nodes: []
+[avoid_dynamic] 2023-10-28T14:15:59.938237 nodes: []
+[avoid_dynamic] 2023-10-28T14:16:00.256653 nodes: []
+[avoid_dynamic] 2023-10-28T14:16:00.551715 nodes: []
+[avoid_dynamic] 2023-10-28T14:16:01.687003 nodes: []
+[avoid_dynamic] 2023-10-28T14:16:08.486043 nodes: []
+[avoid_dynamic] 2023-10-28T14:16:14.466417 nodes: []
+[avoid_dynamic] 2023-10-28T14:17:32.001215 nodes: []
+[avoid_dynamic] 2023-10-28T14:17:45.143915 nodes: []
+[avoid_dynamic] 2023-10-28T14:17:45.494045 nodes: []
+[avoid_dynamic] 2023-10-28T14:17:46.618220 nodes: []
+[avoid_dynamic] 2023-10-28T14:19:53.296266 nodes: []
+[avoid_dynamic] 2023-10-28T14:20:15.896675 nodes: []
+The Dart VM service is listening on http://127.0.0.1:60336/WwkVbDzjI6g=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:60336/WwkVbDzjI6g=/devtools?uri=ws://127.0.0.1:60336/WwkVbDzjI6g=/ws
+[avoid_dynamic] 2023-10-28T14:20:35.167635 nodes: []
+[avoid_dynamic] 2023-10-28T14:21:19.525294 nodes: []
+[avoid_dynamic] 2023-10-28T14:21:22.830032 nodes: []
+[avoid_dynamic] 2023-10-28T14:21:24.247765 nodes: []
+[avoid_dynamic] 2023-10-28T14:21:50.565087 nodes: []
+[avoid_dynamic] 2023-10-28T14:21:56.627329 nodes: []
+[avoid_dynamic] 2023-10-28T14:22:17.011789 nodes: []
+[avoid_dynamic] 2023-10-28T14:22:18.384732 nodes: []
+[avoid_dynamic] 2023-10-28T14:22:18.386456 [foo, =, '']
+[avoid_dynamic] 2023-10-28T14:22:18.386796 [foo1, =, '']
+[avoid_dynamic] 2023-10-28T14:22:43.433043 nodes: []
+[avoid_dynamic] 2023-10-28T14:22:43.433643 [print]
+[avoid_dynamic] 2023-10-28T14:22:43.433944 [foo]
+[avoid_dynamic] 2023-10-28T14:22:43.434140 [print]
+[avoid_dynamic] 2023-10-28T14:22:43.434468 [foo1]
+[avoid_dynamic] 2023-10-28T14:22:46.868023 nodes: []
+[avoid_dynamic] 2023-10-28T14:22:46.868679 [print]
+[avoid_dynamic] 2023-10-28T14:22:46.868838 [foo]
+[avoid_dynamic] 2023-10-28T14:22:46.868974 [print]
+[avoid_dynamic] 2023-10-28T14:22:46.869118 [foo1]
+[avoid_dynamic] 2023-10-28T14:22:52.609321 nodes: []
+[avoid_dynamic] 2023-10-28T14:22:52.609822 [foo, =, '']
+[avoid_dynamic] 2023-10-28T14:22:52.610031 [foo1, =, '']
+[avoid_dynamic] 2023-10-28T14:23:38.855097 nodes: []
+[avoid_dynamic] 2023-10-28T14:23:38.856163 [foo, =, '']
+[avoid_dynamic] 2023-10-28T14:23:38.856371 elementType: foo = ''
+[avoid_dynamic] 2023-10-28T14:23:38.856515 [foo1, =, '']
+[avoid_dynamic] 2023-10-28T14:23:38.856826 elementType: foo1 = ''
+[avoid_dynamic] 2023-10-28T14:23:43.280923 nodes: []
+[avoid_dynamic] 2023-10-28T14:23:43.281753 [foo, =, '']
+[avoid_dynamic] 2023-10-28T14:23:43.281926 elementType: foo = ''
+[avoid_dynamic] 2023-10-28T14:23:43.282061 [foo1, =, '']
+[avoid_dynamic] 2023-10-28T14:23:43.282201 elementType: foo1 = ''
+[avoid_dynamic] 2023-10-28T14:24:23.306535 nodes: []
+[avoid_dynamic] 2023-10-28T14:24:23.307582 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:24:23.307812 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:24:33.734010 nodes: []
+[avoid_dynamic] 2023-10-28T14:24:33.734641 elementType: false
+[avoid_dynamic] 2023-10-28T14:24:33.734804 elementType: false
+[avoid_dynamic] 2023-10-28T14:24:52.974958 nodes: []
+[avoid_dynamic] 2023-10-28T14:24:52.975397 true
+[avoid_dynamic] 2023-10-28T14:24:52.975594 true
+[avoid_dynamic] 2023-10-28T14:25:55.477873 nodes: []
+[avoid_dynamic] 2023-10-28T14:25:55.478424 true
+[avoid_dynamic] 2023-10-28T14:25:55.478608 true
+[avoid_dynamic] 2023-10-28T14:26:22.944099 nodes: []
+[avoid_dynamic] 2023-10-28T14:26:22.944710 true
+[avoid_dynamic] 2023-10-28T14:26:22.944925 true
+[avoid_dynamic] 2023-10-28T14:26:25.513717 nodes: [foo = '', foo1 = '']
+[avoid_dynamic] 2023-10-28T14:26:25.515787 true
+[avoid_dynamic] 2023-10-28T14:26:25.516064 true
+[avoid_dynamic] 2023-10-28T14:26:40.060026 nodes: [foo = '', foo1 = '', foo = '', foo1 = '']
+[avoid_dynamic] 2023-10-28T14:26:40.061549 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:26:40.061842 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:26:40.061979 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:26:40.062336 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:26:44.330191 nodes: [foo = '', foo1 = '', foo = '', foo1 = '', foo, foo1]
+[avoid_dynamic] 2023-10-28T14:26:44.331025 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:26:44.331273 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:26:44.331424 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:26:44.331595 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:27:42.795956 true
+[avoid_dynamic] 2023-10-28T14:27:42.796406 true
+[avoid_dynamic] 2023-10-28T14:27:42.796848 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:27:42.797019 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:27:42.797447 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:27:42.797657 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:28:03.194450 true
+[avoid_dynamic] 2023-10-28T14:28:03.194945 true
+[avoid_dynamic] 2023-10-28T14:28:03.195253 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:28:03.195484 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:28:03.195933 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:28:03.196101 elementType: dynamic
+The Dart VM service is listening on http://127.0.0.1:60669/0dnyS8yswjM=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:60669/0dnyS8yswjM=/devtools?uri=ws://127.0.0.1:60669/0dnyS8yswjM=/ws
+[avoid_dynamic] 2023-10-28T14:28:19.868358 true
+[avoid_dynamic] 2023-10-28T14:28:19.869178 true
+[avoid_dynamic] 2023-10-28T14:28:19.869370 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:28:19.869589 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:28:19.869922 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:28:19.870079 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:28:54.291382 true
+[avoid_dynamic] 2023-10-28T14:28:54.291754 true
+[avoid_dynamic] 2023-10-28T14:28:54.291899 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:28:54.292031 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:28:54.292160 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:28:54.292288 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:28:54.307659 true
+[avoid_dynamic] 2023-10-28T14:28:54.308296 true
+[avoid_dynamic] 2023-10-28T14:28:54.308459 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:28:54.308595 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:28:54.308730 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:28:54.308856 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:37:31.007667 true
+[avoid_dynamic] 2023-10-28T14:37:31.009242 true
+[avoid_dynamic] 2023-10-28T14:37:31.009439 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:31.009606 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:37:31.009765 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:31.009913 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:37:38.140571 true
+[avoid_dynamic] 2023-10-28T14:37:38.141223 false
+[avoid_dynamic] 2023-10-28T14:37:38.141507 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:38.141712 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:37:38.141898 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:38.142183 elementType: String
+[avoid_dynamic] 2023-10-28T14:37:38.364968 true
+[avoid_dynamic] 2023-10-28T14:37:38.365495 false
+[avoid_dynamic] 2023-10-28T14:37:38.365724 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:38.366027 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:37:38.366276 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:38.366606 elementType: InvalidType
+[avoid_dynamic] 2023-10-28T14:37:38.533775 true
+[avoid_dynamic] 2023-10-28T14:37:38.534129 false
+[avoid_dynamic] 2023-10-28T14:37:38.534280 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:38.534592 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:37:38.534880 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:38.535061 elementType: InvalidType
+[avoid_dynamic] 2023-10-28T14:37:38.710793 true
+[avoid_dynamic] 2023-10-28T14:37:38.711282 false
+[avoid_dynamic] 2023-10-28T14:37:38.711468 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:38.711923 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:37:38.712258 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:38.712444 elementType: InvalidType
+[avoid_dynamic] 2023-10-28T14:37:38.768094 true
+[avoid_dynamic] 2023-10-28T14:37:38.768435 false
+[avoid_dynamic] 2023-10-28T14:37:38.768846 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:38.769020 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:37:38.769531 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:38.770180 elementType: InvalidType
+[avoid_dynamic] 2023-10-28T14:37:38.981457 true
+[avoid_dynamic] 2023-10-28T14:37:38.981804 false
+[avoid_dynamic] 2023-10-28T14:37:38.981950 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:38.982404 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:37:38.982576 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:38.982714 elementType: InvalidType
+[avoid_dynamic] 2023-10-28T14:37:39.031534 true
+[avoid_dynamic] 2023-10-28T14:37:39.031951 false
+[avoid_dynamic] 2023-10-28T14:37:39.032504 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:39.032786 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:37:39.032933 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:37:39.033211 elementType: String
+[avoid_dynamic] 2023-10-28T14:41:28.636750 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:41:28.637347 elementType: dynamic
+[avoid_dynamic] 2023-10-28T14:41:28.637641 elementType: void Function(Object?)
+[avoid_dynamic] 2023-10-28T14:41:28.637789 elementType: String
+[avoid_dynamic] 2023-10-28T14:44:38.934352 true
+[avoid_dynamic] 2023-10-28T14:44:38.934791 false
+[avoid_dynamic] 2023-10-28T14:44:49.308965 true
+[avoid_dynamic] 2023-10-28T14:44:49.309521 false
+[avoid_dynamic] 2023-10-28T14:45:01.666589 true
+[avoid_dynamic] 2023-10-28T14:45:01.667092 false
+[avoid_dynamic] 2023-10-28T14:45:01.667312 true
+[avoid_dynamic] 2023-10-28T14:45:01.969751 true
+[avoid_dynamic] 2023-10-28T14:45:01.970342 false
+[avoid_dynamic] 2023-10-28T14:45:01.971033 true
+[avoid_dynamic] 2023-10-28T14:45:03.111137 true
+[avoid_dynamic] 2023-10-28T14:45:03.111586 false
+[avoid_dynamic] 2023-10-28T14:45:03.112173 true
+[avoid_dynamic] 2023-10-28T14:45:22.502953 true
+[avoid_dynamic] 2023-10-28T14:45:22.503317 false
+[avoid_dynamic] 2023-10-28T14:45:22.503944 true
+The Dart VM service is listening on http://127.0.0.1:61353/SLlXcdRsDJ0=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:61353/SLlXcdRsDJ0=/devtools?uri=ws://127.0.0.1:61353/SLlXcdRsDJ0=/ws
+[avoid_dynamic] 2023-10-28T14:45:49.170780 true
+[avoid_dynamic] 2023-10-28T14:45:49.171317 false
+[avoid_dynamic] 2023-10-28T14:45:49.171947 true
+[avoid_dynamic] 2023-10-28T14:49:48.922324 true
+[avoid_dynamic] 2023-10-28T14:49:48.923246 false
+[avoid_dynamic] 2023-10-28T14:49:48.923437 true
+[avoid_dynamic] 2023-10-28T14:50:03.951689 true
+[avoid_dynamic] 2023-10-28T14:50:03.952078 false
+[avoid_dynamic] 2023-10-28T14:50:03.952239 true
+[avoid_dynamic] 2023-10-28T14:50:06.984690 true
+[avoid_dynamic] 2023-10-28T14:50:06.987215 false
+[avoid_dynamic] 2023-10-28T14:50:06.987382 true
+[avoid_dynamic] 2023-10-28T14:50:08.116437 true
+[avoid_dynamic] 2023-10-28T14:50:08.116840 false
+[avoid_dynamic] 2023-10-28T14:50:08.117216 true
+[avoid_dynamic] 2023-10-28T14:53:16.370888 true
+[avoid_dynamic] 2023-10-28T14:53:16.371335 false
+[avoid_dynamic] 2023-10-28T14:53:16.371679 true
+[avoid_dynamic] 2023-10-28T14:53:35.166583 create new visitor
+[avoid_dynamic] 2023-10-28T14:53:37.487300 create new visitor
+[avoid_dynamic] 2023-10-28T14:53:38.800019 create new visitor
+[avoid_dynamic] 2023-10-28T14:53:39.929916 create new visitor
+[avoid_dynamic] 2023-10-28T14:54:07.279044 create new visitor
+[avoid_dynamic] 2023-10-28T14:54:07.279479 nodes before: []
+[avoid_dynamic] 2023-10-28T14:54:12.019306 create new visitor
+[avoid_dynamic] 2023-10-28T14:54:12.019785 nodes before: []
+[avoid_dynamic] 2023-10-28T14:54:12.020167 nodes after: []
+[avoid_dynamic] 2023-10-28T14:54:29.366904 nodes before: []
+[avoid_dynamic] 2023-10-28T14:54:29.367463 nodes after: []
+[avoid_dynamic] 2023-10-28T14:54:53.957485 nodes before: [foo = '', foo]
+[avoid_dynamic] 2023-10-28T14:54:53.957902 nodes after: [foo = '', foo]
+[avoid_dynamic] 2023-10-28T14:55:00.251072 nodes before: [foo = '', foo, foo = '', foo]
+[avoid_dynamic] 2023-10-28T14:55:00.251576 nodes after: [foo = '', foo, foo = '', foo]
+[avoid_dynamic] 2023-10-28T14:55:01.307738 nodes before: [foo = '', foo, foo = '', foo, foo = '', foo]
+[avoid_dynamic] 2023-10-28T14:55:01.308200 nodes after: [foo = '', foo, foo = '', foo, foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:03:08.999016 nodes before: []
+[avoid_dynamic] 2023-10-28T15:03:08.999493 nodes after: []
+[avoid_dynamic] 2023-10-28T15:03:09.005467 Plugin avoid_dynamic threw while analyzing /Users/egonmeijers/development/dart_custom_lint/example/dart_custom_lint_example.dart:
+[avoid_dynamic] 2023-10-28T15:03:09.005467 Unsupported operation: Cannot add to an unmodifiable list
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #0      UnmodifiableListMixin.add (dart:_internal/list.dart:114:5)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #1      _DynamicTypeChecker.visitVariableDeclaration (package:dart_custom_lint/src/lint_rules/avoid_dynamic/visitor.dart:16:14)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #2      VariableDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:18806:50)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #3      AvoidDynamicLintRule.run.<anonymous closure> (package:dart_custom_lint/src/lint_rules/avoid_dynamic/avoid_dynamic.dart:30:12)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #4      _rootRunUnary (dart:async/zone.dart:1415:13)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #5      _CustomZone.runUnary (dart:async/zone.dart:1308:19)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #6      LinterVisitor._runSubscriptions (package:custom_lint_core/src/node_lint_visitor.g.dart:29:27)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #7      LinterVisitor.visitVariableDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:1184:5)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #8      VariableDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:18806:50)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #9      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13037:20)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #10     VariableDeclarationListImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:18949:16)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #11     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #12     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #13     GeneralizingAstVisitor.visitVariableDeclarationList (package:analyzer/dart/ast/visitor.dart:760:7)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #14     LinterVisitor.visitVariableDeclarationList (package:custom_lint_core/src/node_lint_visitor.g.dart:1191:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #15     VariableDeclarationListImpl.accept (package:analyzer/src/dart/ast/ast.dart:18943:15)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #16     VariableDeclarationStatementImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:19012:19)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #17     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #18     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #19     GeneralizingAstVisitor.visitStatement (package:analyzer/dart/ast/visitor.dart:679:40)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #20     LinterVisitor.visitStatement (package:custom_lint_core/src/node_lint_visitor.g.dart:1029:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #21     GeneralizingAstVisitor.visitVariableDeclarationStatement (package:analyzer/dart/ast/visitor.dart:764:7)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #22     LinterVisitor.visitVariableDeclarationStatement (package:custom_lint_core/src/node_lint_visitor.g.dart:1197:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #23     VariableDeclarationStatementImpl.accept (package:analyzer/src/dart/ast/ast.dart:19008:15)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #24     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13037:20)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #25     BlockImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:1980:17)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #26     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #27     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #28     GeneralizingAstVisitor.visitStatement (package:analyzer/dart/ast/visitor.dart:679:40)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #29     LinterVisitor.visitStatement (package:custom_lint_core/src/node_lint_visitor.g.dart:1029:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #30     GeneralizingAstVisitor.visitBlock (package:analyzer/dart/ast/visitor.dart:173:32)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #31     LinterVisitor.visitBlock (package:custom_lint_core/src/node_lint_visitor.g.dart:112:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #32     BlockImpl.accept (package:analyzer/src/dart/ast/ast.dart:1976:50)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #33     BlockFunctionBodyImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:1931:12)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #34     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #35     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #36     GeneralizingAstVisitor.visitFunctionBody (package:analyzer/dart/ast/visitor.dart:373:46)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #37     LinterVisitor.visitFunctionBody (package:custom_lint_core/src/node_lint_visitor.g.dart:490:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #38     GeneralizingAstVisitor.visitBlockFunctionBody (package:analyzer/dart/ast/visitor.dart:176:56)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #39     LinterVisitor.visitBlockFunctionBody (package:custom_lint_core/src/node_lint_visitor.g.dart:118:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #40     BlockFunctionBodyImpl.accept (package:analyzer/src/dart/ast/ast.dart:1923:50)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #41     FunctionExpressionImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:8560:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #42     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #43     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #44     GeneralizingAstVisitor.visitCollectionElement (package:analyzer/dart/ast/visitor.dart:208:56)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #45     LinterVisitor.visitCollectionElement (package:custom_lint_core/src/node_lint_visitor.g.dart:184:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #46     GeneralizingAstVisitor.visitExpression (package:analyzer/dart/ast/visitor.dart:305:42)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #47     LinterVisitor.visitExpression (package:custom_lint_core/src/node_lint_visitor.g.dart:370:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #48     GeneralizingAstVisitor.visitFunctionExpression (package:analyzer/dart/ast/visitor.dart:388:58)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #49     LinterVisitor.visitFunctionExpression (package:custom_lint_core/src/node_lint_visitor.g.dart:508:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #50     FunctionExpressionImpl.accept (package:analyzer/src/dart/ast/ast.dart:8549:50)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #51     FunctionDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:8394:25)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #52     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #53     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #54     GeneralizingAstVisitor.visitAnnotatedNode (package:analyzer/dart/ast/visitor.dart:137:48)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #55     LinterVisitor.visitAnnotatedNode (package:custom_lint_core/src/node_lint_visitor.g.dart:46:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #56     GeneralizingAstVisitor.visitDeclaration (package:analyzer/dart/ast/visitor.dart:260:44)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #57     LinterVisitor.visitDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:286:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #58     GeneralizingAstVisitor.visitCompilationUnitMember (package:analyzer/dart/ast/visitor.dart:222:7)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #59     LinterVisitor.visitCompilationUnitMember (package:custom_lint_core/src/node_lint_visitor.g.dart:214:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #60     GeneralizingAstVisitor.visitNamedCompilationUnitMember (package:analyzer/dart/ast/visitor.dart:516:7)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #61     LinterVisitor.visitNamedCompilationUnitMember (package:custom_lint_core/src/node_lint_visitor.g.dart:748:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #62     GeneralizingAstVisitor.visitFunctionDeclaration (package:analyzer/dart/ast/visitor.dart:380:12)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #63     LinterVisitor.visitFunctionDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:496:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #64     FunctionDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:8388:50)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #65     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13037:20)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #66     CompilationUnitImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:3662:21)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #67     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #68     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #69     GeneralizingAstVisitor.visitCompilationUnit (package:analyzer/dart/ast/visitor.dart:219:52)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #70     LinterVisitor.visitCompilationUnit (package:custom_lint_core/src/node_lint_visitor.g.dart:208:11)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #71     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3655:50)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #72     DartLintRule.startUp.<anonymous closure> (package:custom_lint_core/src/lint_rule.dart:136:17)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #73     _rootRun (dart:async/zone.dart:1399:13)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #74     _CustomZone.run (dart:async/zone.dart:1301:19)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #75     _CustomZone.bindCallback.<anonymous closure> (dart:async/zone.dart:1233:23)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #76     runPostRunCallbacks (package:custom_lint_core/src/plugin_base.dart:16:19)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #77     _ClientAnalyzerPlugin.analyzeFile.<anonymous closure> (package:custom_lint_builder/src/client.dart:812:7)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #78     _ClientAnalyzerPlugin._runOperation (package:custom_lint_builder/src/client.dart:855:14)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #79     _ClientAnalyzerPlugin.analyzeFile (package:custom_lint_builder/src/client.dart:776:5)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #80     ServerPlugin.analyzeFiles (package:analyzer_plugin/plugin/plugin.dart:111:7)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #81     ServerPlugin.afterNewContextCollection.<anonymous closure> (package:analyzer_plugin/plugin/plugin.dart:86:7)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #82     ServerPlugin._forAnalysisContexts (package:analyzer_plugin/plugin/plugin.dart:510:9)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #83     ServerPlugin.afterNewContextCollection (package:analyzer_plugin/plugin/plugin.dart:84:5)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.005467 #84     _ClientAnalyzerPlugin._runOperation (package:custom_lint_builder/src/client.dart:855:14)
+[avoid_dynamic] 2023-10-28T15:03:09.005467 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.005467
+[avoid_dynamic] 2023-10-28T15:03:09.006706 Plugin avoid_dynamic threw while analyzing /Users/egonmeijers/development/dart_custom_lint/example/dart_custom_lint_example.dart:
+[avoid_dynamic] 2023-10-28T15:03:09.006706 Unsupported operation: Cannot add to an unmodifiable list
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #0      UnmodifiableListMixin.add (dart:_internal/list.dart:114:5)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #1      _DynamicTypeChecker.visitVariableDeclaration (package:dart_custom_lint/src/lint_rules/avoid_dynamic/visitor.dart:16:14)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #2      VariableDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:18806:50)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #3      AvoidDynamicLintRule.run.<anonymous closure> (package:dart_custom_lint/src/lint_rules/avoid_dynamic/avoid_dynamic.dart:30:12)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #4      _rootRunUnary (dart:async/zone.dart:1415:13)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #5      _CustomZone.runUnary (dart:async/zone.dart:1308:19)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #6      LinterVisitor._runSubscriptions (package:custom_lint_core/src/node_lint_visitor.g.dart:29:27)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #7      LinterVisitor.visitVariableDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:1184:5)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #8      VariableDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:18806:50)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #9      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13037:20)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #10     VariableDeclarationListImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:18949:16)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #11     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #12     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #13     GeneralizingAstVisitor.visitVariableDeclarationList (package:analyzer/dart/ast/visitor.dart:760:7)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #14     LinterVisitor.visitVariableDeclarationList (package:custom_lint_core/src/node_lint_visitor.g.dart:1191:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #15     VariableDeclarationListImpl.accept (package:analyzer/src/dart/ast/ast.dart:18943:15)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #16     FieldDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:6995:16)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #17     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #18     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #19     GeneralizingAstVisitor.visitAnnotatedNode (package:analyzer/dart/ast/visitor.dart:137:48)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #20     LinterVisitor.visitAnnotatedNode (package:custom_lint_core/src/node_lint_visitor.g.dart:46:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #21     GeneralizingAstVisitor.visitDeclaration (package:analyzer/dart/ast/visitor.dart:260:44)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #22     LinterVisitor.visitDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:286:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #23     GeneralizingAstVisitor.visitClassMember (package:analyzer/dart/ast/visitor.dart:203:44)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #24     LinterVisitor.visitClassMember (package:custom_lint_core/src/node_lint_visitor.g.dart:172:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #25     GeneralizingAstVisitor.visitFieldDeclaration (package:analyzer/dart/ast/visitor.dart:329:54)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #26     LinterVisitor.visitFieldDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:406:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #27     FieldDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:6990:50)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #28     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13037:20)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #29     ClassDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2909:13)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #30     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #31     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #32     GeneralizingAstVisitor.visitAnnotatedNode (package:analyzer/dart/ast/visitor.dart:137:48)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #33     LinterVisitor.visitAnnotatedNode (package:custom_lint_core/src/node_lint_visitor.g.dart:46:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #34     GeneralizingAstVisitor.visitDeclaration (package:analyzer/dart/ast/visitor.dart:260:44)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #35     LinterVisitor.visitDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:286:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #36     GeneralizingAstVisitor.visitCompilationUnitMember (package:analyzer/dart/ast/visitor.dart:222:7)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #37     LinterVisitor.visitCompilationUnitMember (package:custom_lint_core/src/node_lint_visitor.g.dart:214:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #38     GeneralizingAstVisitor.visitNamedCompilationUnitMember (package:analyzer/dart/ast/visitor.dart:516:7)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #39     LinterVisitor.visitNamedCompilationUnitMember (package:custom_lint_core/src/node_lint_visitor.g.dart:748:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #40     GeneralizingAstVisitor.visitClassDeclaration (package:analyzer/dart/ast/visitor.dart:201:7)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #41     LinterVisitor.visitClassDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:166:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #42     ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2899:50)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #43     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13037:20)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #44     CompilationUnitImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:3662:21)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #45     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #46     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #47     GeneralizingAstVisitor.visitCompilationUnit (package:analyzer/dart/ast/visitor.dart:219:52)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #48     LinterVisitor.visitCompilationUnit (package:custom_lint_core/src/node_lint_visitor.g.dart:208:11)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #49     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3655:50)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #50     DartLintRule.startUp.<anonymous closure> (package:custom_lint_core/src/lint_rule.dart:136:17)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #51     _rootRun (dart:async/zone.dart:1399:13)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #52     _CustomZone.run (dart:async/zone.dart:1301:19)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #53     _CustomZone.bindCallback.<anonymous closure> (dart:async/zone.dart:1233:23)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #54     runPostRunCallbacks (package:custom_lint_core/src/plugin_base.dart:16:19)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #55     _ClientAnalyzerPlugin.analyzeFile.<anonymous closure> (package:custom_lint_builder/src/client.dart:812:7)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #56     _ClientAnalyzerPlugin._runOperation (package:custom_lint_builder/src/client.dart:855:14)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #57     _ClientAnalyzerPlugin.analyzeFile (package:custom_lint_builder/src/client.dart:776:5)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #58     ServerPlugin.analyzeFiles (package:analyzer_plugin/plugin/plugin.dart:111:7)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #59     ServerPlugin.afterNewContextCollection.<anonymous closure> (package:analyzer_plugin/plugin/plugin.dart:86:7)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #60     ServerPlugin._forAnalysisContexts (package:analyzer_plugin/plugin/plugin.dart:510:9)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #61     ServerPlugin.afterNewContextCollection (package:analyzer_plugin/plugin/plugin.dart:84:5)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.006706 #62     _ClientAnalyzerPlugin._runOperation (package:custom_lint_builder/src/client.dart:855:14)
+[avoid_dynamic] 2023-10-28T15:03:09.006706 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:03:09.006706
+[avoid_dynamic] 2023-10-28T15:03:34.936152 nodes before: []
+[avoid_dynamic] 2023-10-28T15:03:34.936608 nodes after: []
+[avoid_dynamic] 2023-10-28T15:04:07.962186 nodes before: []
+[avoid_dynamic] 2023-10-28T15:04:07.962727 nodes after: []
+[avoid_dynamic] 2023-10-28T15:04:07.965821 Plugin avoid_dynamic threw while analyzing /Users/egonmeijers/development/dart_custom_lint/example/dart_custom_lint_example.dart:
+[avoid_dynamic] 2023-10-28T15:04:07.965821 Unsupported operation: Cannot add to a fixed-length list
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #0      FixedLengthListMixin.add (dart:_internal/list.dart:21:5)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #1      _DynamicTypeChecker.visitVariableDeclaration (package:dart_custom_lint/src/lint_rules/avoid_dynamic/visitor.dart:16:14)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #2      VariableDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:18806:50)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #3      AvoidDynamicLintRule.run.<anonymous closure> (package:dart_custom_lint/src/lint_rules/avoid_dynamic/avoid_dynamic.dart:30:12)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #4      _rootRunUnary (dart:async/zone.dart:1415:13)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #5      _CustomZone.runUnary (dart:async/zone.dart:1308:19)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #6      LinterVisitor._runSubscriptions (package:custom_lint_core/src/node_lint_visitor.g.dart:29:27)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #7      LinterVisitor.visitVariableDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:1184:5)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #8      VariableDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:18806:50)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #9      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13037:20)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #10     VariableDeclarationListImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:18949:16)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #11     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #12     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #13     GeneralizingAstVisitor.visitVariableDeclarationList (package:analyzer/dart/ast/visitor.dart:760:7)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #14     LinterVisitor.visitVariableDeclarationList (package:custom_lint_core/src/node_lint_visitor.g.dart:1191:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #15     VariableDeclarationListImpl.accept (package:analyzer/src/dart/ast/ast.dart:18943:15)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #16     VariableDeclarationStatementImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:19012:19)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #17     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #18     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #19     GeneralizingAstVisitor.visitStatement (package:analyzer/dart/ast/visitor.dart:679:40)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #20     LinterVisitor.visitStatement (package:custom_lint_core/src/node_lint_visitor.g.dart:1029:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #21     GeneralizingAstVisitor.visitVariableDeclarationStatement (package:analyzer/dart/ast/visitor.dart:764:7)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #22     LinterVisitor.visitVariableDeclarationStatement (package:custom_lint_core/src/node_lint_visitor.g.dart:1197:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #23     VariableDeclarationStatementImpl.accept (package:analyzer/src/dart/ast/ast.dart:19008:15)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #24     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13037:20)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #25     BlockImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:1980:17)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #26     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #27     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #28     GeneralizingAstVisitor.visitStatement (package:analyzer/dart/ast/visitor.dart:679:40)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #29     LinterVisitor.visitStatement (package:custom_lint_core/src/node_lint_visitor.g.dart:1029:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #30     GeneralizingAstVisitor.visitBlock (package:analyzer/dart/ast/visitor.dart:173:32)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #31     LinterVisitor.visitBlock (package:custom_lint_core/src/node_lint_visitor.g.dart:112:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #32     BlockImpl.accept (package:analyzer/src/dart/ast/ast.dart:1976:50)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #33     BlockFunctionBodyImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:1931:12)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #34     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #35     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #36     GeneralizingAstVisitor.visitFunctionBody (package:analyzer/dart/ast/visitor.dart:373:46)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #37     LinterVisitor.visitFunctionBody (package:custom_lint_core/src/node_lint_visitor.g.dart:490:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #38     GeneralizingAstVisitor.visitBlockFunctionBody (package:analyzer/dart/ast/visitor.dart:176:56)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #39     LinterVisitor.visitBlockFunctionBody (package:custom_lint_core/src/node_lint_visitor.g.dart:118:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #40     BlockFunctionBodyImpl.accept (package:analyzer/src/dart/ast/ast.dart:1923:50)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #41     FunctionExpressionImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:8560:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #42     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #43     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #44     GeneralizingAstVisitor.visitCollectionElement (package:analyzer/dart/ast/visitor.dart:208:56)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #45     LinterVisitor.visitCollectionElement (package:custom_lint_core/src/node_lint_visitor.g.dart:184:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #46     GeneralizingAstVisitor.visitExpression (package:analyzer/dart/ast/visitor.dart:305:42)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #47     LinterVisitor.visitExpression (package:custom_lint_core/src/node_lint_visitor.g.dart:370:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #48     GeneralizingAstVisitor.visitFunctionExpression (package:analyzer/dart/ast/visitor.dart:388:58)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #49     LinterVisitor.visitFunctionExpression (package:custom_lint_core/src/node_lint_visitor.g.dart:508:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #50     FunctionExpressionImpl.accept (package:analyzer/src/dart/ast/ast.dart:8549:50)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #51     FunctionDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:8394:25)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #52     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #53     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #54     GeneralizingAstVisitor.visitAnnotatedNode (package:analyzer/dart/ast/visitor.dart:137:48)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #55     LinterVisitor.visitAnnotatedNode (package:custom_lint_core/src/node_lint_visitor.g.dart:46:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #56     GeneralizingAstVisitor.visitDeclaration (package:analyzer/dart/ast/visitor.dart:260:44)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #57     LinterVisitor.visitDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:286:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #58     GeneralizingAstVisitor.visitCompilationUnitMember (package:analyzer/dart/ast/visitor.dart:222:7)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #59     LinterVisitor.visitCompilationUnitMember (package:custom_lint_core/src/node_lint_visitor.g.dart:214:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #60     GeneralizingAstVisitor.visitNamedCompilationUnitMember (package:analyzer/dart/ast/visitor.dart:516:7)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #61     LinterVisitor.visitNamedCompilationUnitMember (package:custom_lint_core/src/node_lint_visitor.g.dart:748:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #62     GeneralizingAstVisitor.visitFunctionDeclaration (package:analyzer/dart/ast/visitor.dart:380:12)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #63     LinterVisitor.visitFunctionDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:496:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #64     FunctionDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:8388:50)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #65     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13037:20)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #66     CompilationUnitImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:3662:21)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #67     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #68     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #69     GeneralizingAstVisitor.visitCompilationUnit (package:analyzer/dart/ast/visitor.dart:219:52)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #70     LinterVisitor.visitCompilationUnit (package:custom_lint_core/src/node_lint_visitor.g.dart:208:11)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #71     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3655:50)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #72     DartLintRule.startUp.<anonymous closure> (package:custom_lint_core/src/lint_rule.dart:136:17)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #73     _rootRun (dart:async/zone.dart:1399:13)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #74     _CustomZone.run (dart:async/zone.dart:1301:19)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #75     _CustomZone.bindCallback.<anonymous closure> (dart:async/zone.dart:1233:23)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #76     runPostRunCallbacks (package:custom_lint_core/src/plugin_base.dart:16:19)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #77     _ClientAnalyzerPlugin.analyzeFile.<anonymous closure> (package:custom_lint_builder/src/client.dart:812:7)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #78     _ClientAnalyzerPlugin._runOperation (package:custom_lint_builder/src/client.dart:855:14)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #79     _ClientAnalyzerPlugin.analyzeFile (package:custom_lint_builder/src/client.dart:776:5)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #80     ServerPlugin.analyzeFiles (package:analyzer_plugin/plugin/plugin.dart:111:7)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #81     ServerPlugin.afterNewContextCollection.<anonymous closure> (package:analyzer_plugin/plugin/plugin.dart:86:7)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #82     ServerPlugin._forAnalysisContexts (package:analyzer_plugin/plugin/plugin.dart:510:9)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #83     ServerPlugin.afterNewContextCollection (package:analyzer_plugin/plugin/plugin.dart:84:5)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.965821 #84     _ClientAnalyzerPlugin._runOperation (package:custom_lint_builder/src/client.dart:855:14)
+[avoid_dynamic] 2023-10-28T15:04:07.965821 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.965821
+[avoid_dynamic] 2023-10-28T15:04:07.967325 Plugin avoid_dynamic threw while analyzing /Users/egonmeijers/development/dart_custom_lint/example/dart_custom_lint_example.dart:
+[avoid_dynamic] 2023-10-28T15:04:07.967325 Unsupported operation: Cannot add to a fixed-length list
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #0      FixedLengthListMixin.add (dart:_internal/list.dart:21:5)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #1      _DynamicTypeChecker.visitVariableDeclaration (package:dart_custom_lint/src/lint_rules/avoid_dynamic/visitor.dart:16:14)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #2      VariableDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:18806:50)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #3      AvoidDynamicLintRule.run.<anonymous closure> (package:dart_custom_lint/src/lint_rules/avoid_dynamic/avoid_dynamic.dart:30:12)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #4      _rootRunUnary (dart:async/zone.dart:1415:13)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #5      _CustomZone.runUnary (dart:async/zone.dart:1308:19)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #6      LinterVisitor._runSubscriptions (package:custom_lint_core/src/node_lint_visitor.g.dart:29:27)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #7      LinterVisitor.visitVariableDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:1184:5)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #8      VariableDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:18806:50)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #9      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13037:20)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #10     VariableDeclarationListImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:18949:16)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #11     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #12     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #13     GeneralizingAstVisitor.visitVariableDeclarationList (package:analyzer/dart/ast/visitor.dart:760:7)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #14     LinterVisitor.visitVariableDeclarationList (package:custom_lint_core/src/node_lint_visitor.g.dart:1191:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #15     VariableDeclarationListImpl.accept (package:analyzer/src/dart/ast/ast.dart:18943:15)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #16     FieldDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:6995:16)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #17     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #18     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #19     GeneralizingAstVisitor.visitAnnotatedNode (package:analyzer/dart/ast/visitor.dart:137:48)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #20     LinterVisitor.visitAnnotatedNode (package:custom_lint_core/src/node_lint_visitor.g.dart:46:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #21     GeneralizingAstVisitor.visitDeclaration (package:analyzer/dart/ast/visitor.dart:260:44)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #22     LinterVisitor.visitDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:286:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #23     GeneralizingAstVisitor.visitClassMember (package:analyzer/dart/ast/visitor.dart:203:44)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #24     LinterVisitor.visitClassMember (package:custom_lint_core/src/node_lint_visitor.g.dart:172:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #25     GeneralizingAstVisitor.visitFieldDeclaration (package:analyzer/dart/ast/visitor.dart:329:54)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #26     LinterVisitor.visitFieldDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:406:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #27     FieldDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:6990:50)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #28     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13037:20)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #29     ClassDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2909:13)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #30     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #31     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #32     GeneralizingAstVisitor.visitAnnotatedNode (package:analyzer/dart/ast/visitor.dart:137:48)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #33     LinterVisitor.visitAnnotatedNode (package:custom_lint_core/src/node_lint_visitor.g.dart:46:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #34     GeneralizingAstVisitor.visitDeclaration (package:analyzer/dart/ast/visitor.dart:260:44)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #35     LinterVisitor.visitDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:286:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #36     GeneralizingAstVisitor.visitCompilationUnitMember (package:analyzer/dart/ast/visitor.dart:222:7)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #37     LinterVisitor.visitCompilationUnitMember (package:custom_lint_core/src/node_lint_visitor.g.dart:214:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #38     GeneralizingAstVisitor.visitNamedCompilationUnitMember (package:analyzer/dart/ast/visitor.dart:516:7)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #39     LinterVisitor.visitNamedCompilationUnitMember (package:custom_lint_core/src/node_lint_visitor.g.dart:748:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #40     GeneralizingAstVisitor.visitClassDeclaration (package:analyzer/dart/ast/visitor.dart:201:7)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #41     LinterVisitor.visitClassDeclaration (package:custom_lint_core/src/node_lint_visitor.g.dart:166:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #42     ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2899:50)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #43     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13037:20)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #44     CompilationUnitImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:3662:21)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #45     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:535:10)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #46     LinterVisitor.visitNode (package:custom_lint_core/src/node_lint_visitor.g.dart:784:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #47     GeneralizingAstVisitor.visitCompilationUnit (package:analyzer/dart/ast/visitor.dart:219:52)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #48     LinterVisitor.visitCompilationUnit (package:custom_lint_core/src/node_lint_visitor.g.dart:208:11)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #49     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3655:50)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #50     DartLintRule.startUp.<anonymous closure> (package:custom_lint_core/src/lint_rule.dart:136:17)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #51     _rootRun (dart:async/zone.dart:1399:13)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #52     _CustomZone.run (dart:async/zone.dart:1301:19)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #53     _CustomZone.bindCallback.<anonymous closure> (dart:async/zone.dart:1233:23)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #54     runPostRunCallbacks (package:custom_lint_core/src/plugin_base.dart:16:19)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #55     _ClientAnalyzerPlugin.analyzeFile.<anonymous closure> (package:custom_lint_builder/src/client.dart:812:7)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #56     _ClientAnalyzerPlugin._runOperation (package:custom_lint_builder/src/client.dart:855:14)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #57     _ClientAnalyzerPlugin.analyzeFile (package:custom_lint_builder/src/client.dart:776:5)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #58     ServerPlugin.analyzeFiles (package:analyzer_plugin/plugin/plugin.dart:111:7)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #59     ServerPlugin.afterNewContextCollection.<anonymous closure> (package:analyzer_plugin/plugin/plugin.dart:86:7)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #60     ServerPlugin._forAnalysisContexts (package:analyzer_plugin/plugin/plugin.dart:510:9)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #61     ServerPlugin.afterNewContextCollection (package:analyzer_plugin/plugin/plugin.dart:84:5)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.967325 #62     _ClientAnalyzerPlugin._runOperation (package:custom_lint_builder/src/client.dart:855:14)
+[avoid_dynamic] 2023-10-28T15:04:07.967325 <asynchronous suspension>
+[avoid_dynamic] 2023-10-28T15:04:07.967325
+[avoid_dynamic] 2023-10-28T15:04:20.728087 nodes before: []
+[avoid_dynamic] 2023-10-28T15:04:20.728507 nodes after: []
+[avoid_dynamic] 2023-10-28T15:05:25.638740 nodes before: []
+[avoid_dynamic] 2023-10-28T15:05:25.639171 nodes after: []
+[avoid_dynamic] 2023-10-28T15:05:25.643059 nodes before: []
+[avoid_dynamic] 2023-10-28T15:05:25.643650 nodes after: []
+[avoid_dynamic] 2023-10-28T15:05:47.740141 nodes before: []
+[avoid_dynamic] 2023-10-28T15:05:47.740594 nodes after: []
+[avoid_dynamic] 2023-10-28T15:06:05.830945 nodes before: []
+[avoid_dynamic] 2023-10-28T15:06:05.831938 nodes after: []
+[avoid_dynamic] 2023-10-28T15:10:43.167808 nodes before: []
+[avoid_dynamic] 2023-10-28T15:10:43.168450 nodes after: []
+[avoid_dynamic] 2023-10-28T15:10:43.171788 nodes before: []
+[avoid_dynamic] 2023-10-28T15:10:43.172192 nodes after: []
+[avoid_dynamic] 2023-10-28T15:10:52.993822 nodes before: []
+[avoid_dynamic] 2023-10-28T15:10:52.994246 nodes after: []
+[avoid_dynamic] 2023-10-28T15:10:53.012225 nodes before: []
+[avoid_dynamic] 2023-10-28T15:10:53.012624 nodes after: []
+[avoid_dynamic] 2023-10-28T15:11:32.535364 nodes before: []
+[avoid_dynamic] 2023-10-28T15:11:32.536064 nodes after: []
+[avoid_dynamic] 2023-10-28T15:12:31.747228 nodes before: []
+[avoid_dynamic] 2023-10-28T15:12:31.747713 nodes after: []
+[avoid_dynamic] 2023-10-28T15:13:11.484940 nodes before: []
+[avoid_dynamic] 2023-10-28T15:13:11.485461 nodes after: []
+The Dart VM service is listening on http://127.0.0.1:62452/NrqV4wL-FoU=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:62452/NrqV4wL-FoU=/devtools?uri=ws://127.0.0.1:62452/NrqV4wL-FoU=/ws
+[avoid_dynamic] 2023-10-28T15:13:31.525082 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:13:31.526478 adding node: foo
+[avoid_dynamic] 2023-10-28T15:13:32.688547 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:13:32.689143 adding node: foo
+[avoid_dynamic] 2023-10-28T15:13:59.057658 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:13:59.058083 adding node: foo
+[avoid_dynamic] 2023-10-28T15:13:59.060777 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:13:59.061080 adding node: foo
+[avoid_dynamic] 2023-10-28T15:18:36.588016 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:18:36.588624 adding node: foo
+[avoid_dynamic] 2023-10-28T15:18:37.375861 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:18:37.378147 adding node: foo
+The Dart VM service is listening on http://127.0.0.1:62710/8mXzphsClYY=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:62710/8mXzphsClYY=/devtools?uri=ws://127.0.0.1:62710/8mXzphsClYY=/ws
+[custom_lint] 2023-10-28T15:18:50.838479 /Users/egonmeijers/development/dart_custom_lint/lib/src/lint_rules/avoid_dynamic/avoid_dynamic.dart:11:9: Error: Constructor is marked 'const' so all fields must be final.
+[custom_lint] 2023-10-28T15:18:50.838479   const AvoidDynamicLintRule() : super(code: _code);
+[custom_lint] 2023-10-28T15:18:50.838479         ^
+[custom_lint] 2023-10-28T15:18:50.838479 /Users/egonmeijers/development/dart_custom_lint/lib/src/lint_rules/avoid_dynamic/avoid_dynamic.dart:13:28: Context: Field isn't final, but constructor is 'const'.
+[custom_lint] 2023-10-28T15:18:50.838479   late _DynamicTypeChecker visitor;
+[custom_lint] 2023-10-28T15:18:50.838479                            ^
+[custom_lint] 2023-10-28T15:18:50.838479
+[custom_lint] 2023-10-28T15:18:50.838479
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:242:11)
+<asynchronous suspension>
+#1      Future.any.onValue (dart:async/future.dart:615:5)
+<asynchronous suspension>
+
+The Dart VM service is listening on http://127.0.0.1:63147/4vV5uCHqvGA=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:63147/4vV5uCHqvGA=/devtools?uri=ws://127.0.0.1:63147/4vV5uCHqvGA=/ws
+[avoid_dynamic] 2023-10-28T15:29:24.359160 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:29:24.359828 adding node: foo
+[avoid_dynamic] 2023-10-28T15:29:41.454854 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:29:41.455259 adding node: foo
+[avoid_dynamic] 2023-10-28T15:29:44.928894 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:29:44.929274 adding node: foo
+[avoid_dynamic] 2023-10-28T15:30:12.049562 clearing!
+[avoid_dynamic] 2023-10-28T15:30:12.060690 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:30:12.061164 adding node: foo
+[avoid_dynamic] 2023-10-28T15:30:20.436039 clearing!
+[avoid_dynamic] 2023-10-28T15:30:20.436611 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:30:20.436924 adding node: foo
+[avoid_dynamic] 2023-10-28T15:30:37.081807 clearing!
+[avoid_dynamic] 2023-10-28T15:30:37.082445 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:30:37.082638 [foo = '']
+[avoid_dynamic] 2023-10-28T15:30:37.082901 [foo = '']
+[avoid_dynamic] 2023-10-28T15:30:37.083052 adding node: foo
+[avoid_dynamic] 2023-10-28T15:30:37.083383 [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:30:42.479322 clearing!
+[avoid_dynamic] 2023-10-28T15:30:42.479978 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:30:42.480186 [foo = '']
+[avoid_dynamic] 2023-10-28T15:30:42.480534 [foo = '']
+[avoid_dynamic] 2023-10-28T15:30:42.480692 adding node: foo
+[avoid_dynamic] 2023-10-28T15:30:42.480838 [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:30:52.977843 clearing!
+[avoid_dynamic] 2023-10-28T15:30:52.979793 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:30:52.985992 [foo = '']
+[avoid_dynamic] 2023-10-28T15:30:52.986417 [foo = '']
+[avoid_dynamic] 2023-10-28T15:30:52.986750 adding node: foo
+[avoid_dynamic] 2023-10-28T15:30:52.986924 [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:30:54.311985 clearing!
+[avoid_dynamic] 2023-10-28T15:30:54.312396 []
+[avoid_dynamic] 2023-10-28T15:30:54.313093 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:30:54.313396 [foo = '']
+[avoid_dynamic] 2023-10-28T15:30:54.313538 [foo = '']
+[avoid_dynamic] 2023-10-28T15:30:54.313663 adding node: foo
+[avoid_dynamic] 2023-10-28T15:30:54.313781 [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:30:58.391104 clearing!
+[avoid_dynamic] 2023-10-28T15:30:58.391683 []
+[avoid_dynamic] 2023-10-28T15:30:58.392487 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:30:58.392862 [foo = '']
+[avoid_dynamic] 2023-10-28T15:30:58.393043 [foo = '']
+[avoid_dynamic] 2023-10-28T15:30:58.393212 adding node: foo
+[avoid_dynamic] 2023-10-28T15:30:58.393393 [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:31:08.788327 clearing!
+[avoid_dynamic] 2023-10-28T15:31:08.788761 []
+[avoid_dynamic] 2023-10-28T15:31:08.789530 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:31:08.798145 [foo = '']
+[avoid_dynamic] 2023-10-28T15:31:08.798432 [foo = '']
+[avoid_dynamic] 2023-10-28T15:31:08.798604 adding node: foo
+[avoid_dynamic] 2023-10-28T15:31:08.802003 [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:31:10.115760 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:31:10.116155 adding node: foo
+[avoid_dynamic] 2023-10-28T15:31:19.137031 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:31:19.137428 adding node: foo
+[avoid_dynamic] 2023-10-28T15:31:30.415457 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:31:30.415848 adding node: foo
+The Dart VM service is listening on http://127.0.0.1:63291/6sUhVdPf-c0=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:63291/6sUhVdPf-c0=/devtools?uri=ws://127.0.0.1:63291/6sUhVdPf-c0=/ws
+[avoid_dynamic] 2023-10-28T15:31:50.458910 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:31:50.460090 adding node: foo
+[avoid_dynamic] 2023-10-28T15:32:22.948316 adding node: foo = ''
+[avoid_dynamic] 2023-10-28T15:32:22.948726 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:32:22.949162 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:32:22.949320 adding node: foo
+[avoid_dynamic] 2023-10-28T15:32:22.949462 nodes: [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:32:52.111241 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:32:52.111700 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:32:52.112034 nodes: [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:32:55.786859 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:32:55.787308 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:32:55.787822 nodes: [foo = '', foo]
+The Dart VM service is listening on http://127.0.0.1:63375/K35TFrytPtE=/
+The Dart DevTools debugger and profiler is available at: http://127.0.0.1:63375/K35TFrytPtE=/devtools?uri=ws://127.0.0.1:63375/K35TFrytPtE=/ws
+[avoid_dynamic] 2023-10-28T15:33:08.429573 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:33:08.430213 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:33:08.430695 nodes: [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:33:34.846663 [foo = '']
+[avoid_dynamic] 2023-10-28T15:33:34.847254 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:33:34.847508 [foo = '']
+[avoid_dynamic] 2023-10-28T15:33:34.847674 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:33:34.847819 [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:33:34.847973 nodes: [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:33:43.379218 [foo = '']
+[avoid_dynamic] 2023-10-28T15:33:43.379612 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:33:43.380037 [foo = '']
+[avoid_dynamic] 2023-10-28T15:33:43.380193 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:33:43.380333 [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:33:43.380469 nodes: [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:34:03.434285 nodes: []
+[avoid_dynamic] 2023-10-28T15:34:03.434772 nodes: []
+[avoid_dynamic] 2023-10-28T15:34:03.435133 nodes: []
+[avoid_dynamic] 2023-10-28T15:34:33.632971 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:34:33.633438 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:34:33.633830 nodes: [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:34:50.494311 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:34:50.494729 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:34:50.494883 nodes: [foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:34:55.394466 nodes: [foo = '', foo, foo = '']
+[avoid_dynamic] 2023-10-28T15:34:55.394890 nodes: [foo = '', foo, foo = '']
+[avoid_dynamic] 2023-10-28T15:34:55.395076 nodes: [foo = '', foo, foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:35:07.803567 nodes: [foo = '', foo, foo = '', foo, foo = '']
+[avoid_dynamic] 2023-10-28T15:35:07.806993 nodes: [foo = '', foo, foo = '', foo, foo = '']
+[avoid_dynamic] 2023-10-28T15:35:07.807210 nodes: [foo = '', foo, foo = '', foo, foo = '', foo]
+[avoid_dynamic] 2023-10-28T15:35:09.082988 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:09.083396 nodes: []
+[avoid_dynamic] 2023-10-28T15:35:09.083788 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:42.883756 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:42.884248 nodes: [L]
+[avoid_dynamic] 2023-10-28T15:35:42.884454 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:43.044042 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:43.044462 nodes: [Li]
+[avoid_dynamic] 2023-10-28T15:35:43.044793 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:43.112750 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:43.113183 nodes: [Lis]
+[avoid_dynamic] 2023-10-28T15:35:43.113326 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:43.194549 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:43.195127 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:43.195290 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:43.456687 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:43.457357 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:43.457558 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:43.657417 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:43.658318 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:43.658503 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:43.772546 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:43.773254 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:43.773443 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:43.971321 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:43.971928 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:43.972301 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:44.048487 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:44.049132 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:44.049340 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:44.163644 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:44.164263 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:44.164449 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:44.341619 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:44.342103 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:44.342347 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:44.404214 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:44.404779 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:44.405136 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:44.643311 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:44.644177 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:44.644435 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:45.150356 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:45.151358 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:45.151730 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:45.357268 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:45.358215 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:45.358640 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:45.442417 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:45.442836 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:45.443035 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:45.589742 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:45.590453 nodes: [List]
+[avoid_dynamic] 2023-10-28T15:35:45.590626 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:47.333025 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:47.333498 nodes: [f = []]
+[avoid_dynamic] 2023-10-28T15:35:47.333720 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:47.412055 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:47.412431 nodes: [fo = []]
+[avoid_dynamic] 2023-10-28T15:35:47.412587 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:47.557918 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:47.558388 nodes: [foo = []]
+[avoid_dynamic] 2023-10-28T15:35:47.558567 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:47.662835 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:47.663472 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:35:47.663650 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:47.846395 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:47.846960 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:35:47.847317 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:55.960041 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:55.960608 nodes: []
+[avoid_dynamic] 2023-10-28T15:35:55.960842 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:56.119523 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:56.119886 nodes: []
+[avoid_dynamic] 2023-10-28T15:35:56.120041 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:56.282305 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:56.282653 nodes: [print]
+[avoid_dynamic] 2023-10-28T15:35:56.282800 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:57.755073 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:57.755545 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:35:57.755768 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:59.487729 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:59.488409 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:35:59.488729 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:59.736495 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:59.737137 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:35:59.737407 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:59.868042 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:59.868433 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:35:59.868599 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:35:59.998273 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:35:59.998653 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:35:59.998815 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:00.115379 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:00.115958 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:00.116123 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:00.315290 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:00.315973 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:00.316163 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:00.375873 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:00.376460 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:00.376673 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:00.485826 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:00.486380 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:00.486557 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:00.671580 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:00.672321 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:00.672710 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:00.813417 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:00.814011 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:00.814193 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:00.980894 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:00.981522 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:00.981799 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:01.178852 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:01.179383 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:01.179552 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:01.347630 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:01.348110 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:01.348373 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:01.488227 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:01.488783 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:01.488957 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:01.558679 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:01.559831 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:01.560050 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:01.839141 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:01.839802 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:01.840007 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:01.877289 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:01.877999 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:01.878330 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:02.011161 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:02.011667 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:02.011826 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:02.143160 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:02.143838 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:02.144043 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:02.172681 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:02.173251 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:02.173410 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:02.313431 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:02.314015 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:02.314190 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:02.388025 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:02.388583 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:02.388745 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:02.614812 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:02.615465 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:02.615680 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:02.829134 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:02.829752 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:02.829928 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:03.020936 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:03.021463 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:03.021619 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:03.161178 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:03.161724 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:03.161891 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:03.329173 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:03.329755 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:03.329920 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:03.446376 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:03.446938 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:03.447167 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:03.605727 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:03.606565 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:03.606886 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:03.828925 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:03.829864 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:03.830260 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:04.208087 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:04.209013 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:04.209270 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:04.292916 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:04.293684 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:04.293863 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:04.447290 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:04.447925 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:04.448095 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:04.516900 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:04.517385 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:04.517540 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:06.170262 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:06.170723 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:06.170946 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:06.477081 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:06.477687 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:06.477956 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:07.231159 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:07.231598 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:07.231760 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:09.219969 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:09.220618 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:09.220942 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:10.601428 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:10.602185 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:10.602440 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:10.831404 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:10.831838 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:10.832049 nodes: []
+[avoid_dynamic] 2023-10-28T15:36:10.832252 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:10.925428 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:10.925766 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:10.925915 nodes: []
+[avoid_dynamic] 2023-10-28T15:36:10.926054 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:11.089465 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:11.089795 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:11.090016 nodes: []
+[avoid_dynamic] 2023-10-28T15:36:11.090189 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:11.187393 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:11.187903 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:11.188102 nodes: []
+[avoid_dynamic] 2023-10-28T15:36:11.188485 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:11.311949 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:11.312799 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:11.313010 nodes: [print]
+[avoid_dynamic] 2023-10-28T15:36:11.313162 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:11.413015 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:11.413572 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:11.413723 nodes: [print]
+[avoid_dynamic] 2023-10-28T15:36:11.414185 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:11.596038 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:11.596568 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:11.596726 nodes: []
+[avoid_dynamic] 2023-10-28T15:36:11.596875 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:11.782771 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:11.783358 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:11.783536 nodes: []
+[avoid_dynamic] 2023-10-28T15:36:11.783686 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:11.826090 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:11.826615 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:11.826752 nodes: []
+[avoid_dynamic] 2023-10-28T15:36:11.826883 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:11.876172 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:11.876677 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:11.876818 nodes: []
+[avoid_dynamic] 2023-10-28T15:36:11.876951 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:12.212047 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:12.212883 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:12.213246 nodes: []
+[avoid_dynamic] 2023-10-28T15:36:12.213423 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:12.504079 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:12.504740 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:12.504914 nodes: [print]
+[avoid_dynamic] 2023-10-28T15:36:12.505059 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:12.816778 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:12.817308 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:12.817516 nodes: []
+[avoid_dynamic] 2023-10-28T15:36:12.817925 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:13.078787 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:13.079191 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:13.079364 nodes: []
+[avoid_dynamic] 2023-10-28T15:36:13.079530 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:13.180106 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:13.180586 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:13.180754 nodes: [print]
+[avoid_dynamic] 2023-10-28T15:36:13.180883 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:13.492643 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:13.493030 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:13.493183 nodes: [Map]
+[avoid_dynamic] 2023-10-28T15:36:13.493328 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:13.691780 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:13.692447 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:13.692854 nodes: [Map]
+[avoid_dynamic] 2023-10-28T15:36:13.692996 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:13.862721 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:13.863206 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:13.863340 nodes: [Map]
+[avoid_dynamic] 2023-10-28T15:36:13.863522 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:14.003204 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:14.003812 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:14.004089 nodes: [Map]
+[avoid_dynamic] 2023-10-28T15:36:14.004437 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:14.061340 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:14.062016 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:14.062378 nodes: [Map]
+[avoid_dynamic] 2023-10-28T15:36:14.062561 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:14.220028 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:14.220629 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:14.220804 nodes: [Map]
+[avoid_dynamic] 2023-10-28T15:36:14.220947 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:14.297401 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:14.298178 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:14.298615 nodes: [Map]
+[avoid_dynamic] 2023-10-28T15:36:14.298774 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:14.500478 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:14.500971 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:14.501299 nodes: [Map]
+[avoid_dynamic] 2023-10-28T15:36:14.501496 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:14.610140 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:14.610702 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:14.610935 nodes: [Map]
+[avoid_dynamic] 2023-10-28T15:36:14.611143 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:14.723959 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:14.724509 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:14.724660 nodes: [Map]
+[avoid_dynamic] 2023-10-28T15:36:14.724782 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:14.832656 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:14.833136 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:14.833464 nodes: [Map]
+[avoid_dynamic] 2023-10-28T15:36:14.833657 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:15.257407 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:15.258 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:15.258174 nodes: [Map]
+[avoid_dynamic] 2023-10-28T15:36:15.258331 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:15.921909 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:15.922472 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:15.922919 nodes: [print]
+[avoid_dynamic] 2023-10-28T15:36:15.923144 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:16.866200 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:16.866797 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:16.866973 nodes: [print]
+[avoid_dynamic] 2023-10-28T15:36:16.867175 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:17.021358 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:17.021670 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:17.021811 nodes: [f]
+[avoid_dynamic] 2023-10-28T15:36:17.021939 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:17.109664 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:17.109980 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:17.110122 nodes: [fo]
+[avoid_dynamic] 2023-10-28T15:36:17.110241 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:17.238856 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:17.239166 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:17.239295 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:17.239431 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:17.311644 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:17.312116 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:17.312457 nodes: [foo2]
+[avoid_dynamic] 2023-10-28T15:36:17.312598 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:17.957080 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:17.957522 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:17.957736 nodes: [foo2]
+[avoid_dynamic] 2023-10-28T15:36:17.957940 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:18.017793 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:18.018202 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:18.018755 nodes: [foo2 = print(foo)]
+[avoid_dynamic] 2023-10-28T15:36:18.018948 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:18.330536 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:18.330905 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:18.331103 nodes: [foo2 = print(foo)]
+[avoid_dynamic] 2023-10-28T15:36:18.331264 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:18.627977 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:18.628688 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:18.629022 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:18.629259 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:19.445525 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:19.445836 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:19.445970 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:19.446095 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:21.242646 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:21.243151 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:21.243369 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:21.243568 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:21.933599 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:21.934269 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:21.934495 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:21.934708 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:21.981587 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:21.981957 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:21.982121 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:21.982283 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:27.237034 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:27.237424 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:27.238044 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:27.238324 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:32.179638 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:32.180180 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:32.180397 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:32.180598 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:33.390457 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:33.390882 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:33.391460 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:33.391630 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:33.393675 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:33.393927 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:33.394059 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:33.394182 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:34.160428 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:34.160908 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:34.161124 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:34.161328 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:34.568933 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:34.569424 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:34.569625 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:34.569814 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:34.890229 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:34.890638 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:34.890824 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:34.891005 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:35.126786 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:35.127107 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:35.127247 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:35.127381 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:35.747983 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:35.752636 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:35.752799 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:35.752917 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:36.126075 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:36.131304 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:36.131688 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:36.132051 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:36:37.824435 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:36:37.824825 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:36:37.825262 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:36:37.825440 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:37:50.651662 nodes: []
+[avoid_dynamic] 2023-10-28T15:37:50.652076 nodes: []
+[avoid_dynamic] 2023-10-28T15:37:50.652494 nodes: []
+[avoid_dynamic] 2023-10-28T15:37:50.652633 nodes: []
+[avoid_dynamic] 2023-10-28T15:39:33.972631 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:39:33.973046 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:39:33.973453 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:39:33.973587 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:40:11.077749 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:40:11.078268 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:40:11.078686 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:40:11.078833 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:40:47.606378 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:40:47.606775 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:40:47.607316 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:40:47.607478 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:41:52.558413 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:41:52.558825 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:41:52.559352 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:41:52.559509 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:01.157583 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:01.157985 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:01.158381 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:42:01.158515 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:05.990471 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:05.990867 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:05.991254 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:42:05.991381 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:18.708165 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:18.708566 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:18.708978 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:18.709251 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:18.709394 grandParent: final Map<String, dynamic> foo2 = {};
+[avoid_dynamic] 2023-10-28T15:42:18.709511 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:42:18.709816 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:18.709937 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:39.044642 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:39.045099 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:39.045291 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:39.045469 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:39.045647 grandParent: final Map<String, dynamic> foo2 = {};
+[avoid_dynamic] 2023-10-28T15:42:39.045818 nodes: [foo2 = {}]
+[avoid_dynamic] 2023-10-28T15:42:39.045985 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:39.046438 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:39.279799 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:39.280323 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:39.280588 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:39.280743 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:39.280882 grandParent: final Map<String, dynamic> foo2 = {''};
+[avoid_dynamic] 2023-10-28T15:42:39.281017 nodes: [foo2 = {''}]
+[avoid_dynamic] 2023-10-28T15:42:39.281151 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:39.281289 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:39.804329 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:39.804798 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:39.805208 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:39.805395 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:39.805567 grandParent: final Map<String, dynamic> foo2 = {'f'};
+[avoid_dynamic] 2023-10-28T15:42:39.805736 nodes: [foo2 = {'f'}]
+[avoid_dynamic] 2023-10-28T15:42:39.805895 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:39.806431 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:39.835420 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:39.836252 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:39.836459 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:39.836602 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:39.836735 grandParent: final Map<String, dynamic> foo2 = {'fo'};
+[avoid_dynamic] 2023-10-28T15:42:39.836866 nodes: [foo2 = {'fo'}]
+[avoid_dynamic] 2023-10-28T15:42:39.836991 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:39.837118 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:39.960527 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:39.961204 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:39.961381 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:39.961527 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:39.961666 grandParent: final Map<String, dynamic> foo2 = {'foo'};
+[avoid_dynamic] 2023-10-28T15:42:39.961794 nodes: [foo2 = {'foo'}]
+[avoid_dynamic] 2023-10-28T15:42:39.961918 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:39.962044 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:40.248780 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:40.249591 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:40.249768 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:40.249902 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:40.250251 grandParent: final Map<String, dynamic> foo2 = {'foo'};
+[avoid_dynamic] 2023-10-28T15:42:40.250416 nodes: [foo2 = {'foo'}]
+[avoid_dynamic] 2023-10-28T15:42:40.250539 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:40.250717 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:40.711145 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:40.712096 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:40.712409 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:40.712579 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:40.712739 grandParent: final Map<String, dynamic> foo2 = {'foo'};
+[avoid_dynamic] 2023-10-28T15:42:40.712893 nodes: [foo2 = {'foo'}]
+[avoid_dynamic] 2023-10-28T15:42:40.713048 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:40.713197 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:41.017366 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:41.018165 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:41.018352 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:41.018497 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:41.018645 grandParent: final Map<String, dynamic> foo2 = {'foo'};
+[avoid_dynamic] 2023-10-28T15:42:41.018974 nodes: [foo2 = {'foo'}]
+[avoid_dynamic] 2023-10-28T15:42:41.019239 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:41.019392 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:41.227304 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:41.228381 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:41.229125 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:41.229607 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:41.229785 grandParent: final Map<String, dynamic> foo2 = {'foo' : };
+[avoid_dynamic] 2023-10-28T15:42:41.229927 nodes: [foo2 = {'foo' : }]
+[avoid_dynamic] 2023-10-28T15:42:41.230056 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:41.230186 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:41.304450 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:41.305065 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:41.305216 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:41.305337 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:41.305455 grandParent: final Map<String, dynamic> foo2 = {'foo' : };
+[avoid_dynamic] 2023-10-28T15:42:41.305587 nodes: [foo2 = {'foo' : }]
+[avoid_dynamic] 2023-10-28T15:42:41.305696 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:41.305812 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:41.401880 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:41.402413 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:41.402541 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:41.402659 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:41.402764 grandParent: final Map<String, dynamic> foo2 = {'foo' : 1};
+[avoid_dynamic] 2023-10-28T15:42:41.402867 nodes: [foo2 = {'foo' : 1}]
+[avoid_dynamic] 2023-10-28T15:42:41.402973 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:41.403075 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:42.618240 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:42.618708 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:42.619098 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:42.619270 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:42.619465 grandParent: final Map<String, dynamic> foo2 = {'foo' : 1};
+[avoid_dynamic] 2023-10-28T15:42:42.619612 nodes: [foo2 = {'foo' : 1}]
+[avoid_dynamic] 2023-10-28T15:42:42.619749 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:42.619881 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:43.748124 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:43.748502 nodes: [foo = '']
+[avoid_dynamic] 2023-10-28T15:42:43.748949 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:43.749101 nodes: [foo1 = []]
+[avoid_dynamic] 2023-10-28T15:42:43.749217 grandParent: final Map<String, dynamic> foo2 = {'foo' : 1};
+[avoid_dynamic] 2023-10-28T15:42:43.749343 nodes: [foo2 = {'foo' : 1}]
+[avoid_dynamic] 2023-10-28T15:42:43.749449 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:43.749563 nodes: [foo]
+[avoid_dynamic] 2023-10-28T15:42:49.317514 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:49.318032 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:49.318318 grandParent: final Map<String, dynamic> foo2 = {'foo' : 1};
+[avoid_dynamic] 2023-10-28T15:42:49.318441 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:42:58.146617 grandParent: final dynamic foo = '';
+[avoid_dynamic] 2023-10-28T15:42:58.147118 grandParent: final List<dynamic> foo1 = [];
+[avoid_dynamic] 2023-10-28T15:42:58.147533 grandParent: final Map<String, dynamic> foo2 = {'foo' : 1};
+[avoid_dynamic] 2023-10-28T15:42:58.147673 grandParent: final dynamic foo;
+[avoid_dynamic] 2023-10-28T15:43:41.543241 grandParent: false
+[avoid_dynamic] 2023-10-28T15:43:41.543622 grandParent: false
+[avoid_dynamic] 2023-10-28T15:43:41.543992 grandParent: false
+[avoid_dynamic] 2023-10-28T15:43:41.544136 grandParent: false
+[avoid_dynamic] 2023-10-28T15:43:47.947274 grandParent: final dynamic foo = '';: false
+[avoid_dynamic] 2023-10-28T15:43:47.947674 grandParent: final List<dynamic> foo1 = [];: false
+[avoid_dynamic] 2023-10-28T15:43:47.948046 grandParent: final Map<String, dynamic> foo2 = {'foo' : 1};: false
+[avoid_dynamic] 2023-10-28T15:43:47.948165 grandParent: final dynamic foo;: false
+[avoid_dynamic] 2023-10-28T15:45:01.516601 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:01.516999 grandParent: final dynamic foo = '';: false
+[avoid_dynamic] 2023-10-28T15:45:01.517363 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:01.517502 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:01.517610 grandParent: final List<dynamic> foo1 = [];: false
+[avoid_dynamic] 2023-10-28T15:45:01.517967 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:01.518089 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:01.518203 grandParent: final Map<String, dynamic> foo2 = {'foo' : 1};: false
+[avoid_dynamic] 2023-10-28T15:45:01.518518 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:01.518691 FieldDeclarationImpl
+[avoid_dynamic] 2023-10-28T15:45:01.518817 grandParent: final dynamic foo;: false
+[avoid_dynamic] 2023-10-28T15:45:01.518933 FieldDeclarationImpl
+[avoid_dynamic] 2023-10-28T15:45:20.283317 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:20.283708 grandParent: final dynamic foo = '';: false
+[avoid_dynamic] 2023-10-28T15:45:20.284075 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:20.284191 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:20.284300 grandParent: final List<dynamic> foo1 = [];: false
+[avoid_dynamic] 2023-10-28T15:45:20.284407 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:20.284513 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:20.284615 grandParent: final Map<String, dynamic> foo2 = {'foo' : 1};: false
+[avoid_dynamic] 2023-10-28T15:45:20.284715 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:20.284925 FieldDeclarationImpl
+[avoid_dynamic] 2023-10-28T15:45:20.285035 grandParent: final dynamic foo;: false
+[avoid_dynamic] 2023-10-28T15:45:20.285293 FieldDeclarationImpl
+[avoid_dynamic] 2023-10-28T15:45:20.288162 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:20.288611 grandParent: final dynamic foo = '';: false
+[avoid_dynamic] 2023-10-28T15:45:20.288734 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:20.288841 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:20.288943 grandParent: final List<dynamic> foo1 = [];: false
+[avoid_dynamic] 2023-10-28T15:45:20.289044 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:20.289147 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:20.289245 grandParent: final Map<String, dynamic> foo2 = {'foo' : 1};: false
+[avoid_dynamic] 2023-10-28T15:45:20.289343 VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:20.289725 FieldDeclarationImpl
+[avoid_dynamic] 2023-10-28T15:45:20.289888 grandParent: final dynamic foo;: false
+[avoid_dynamic] 2023-10-28T15:45:20.290001 FieldDeclarationImpl
+[avoid_dynamic] 2023-10-28T15:45:34.367950 named type: final dynamic foo = ''; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:34.368519 named type: final List<dynamic> foo1 = []; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:34.368926 named type: final Map<String, dynamic> foo2 = {'foo' : 1}; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:45:34.369314 named type: final dynamic foo; FieldDeclarationImpl
+[avoid_dynamic] 2023-10-28T15:48:49.565583 named type: final dynamic foo = ''; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:48:49.566105 named type: final List<dynamic> foo1 = []; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:48:49.566510 named type: final Map<String, dynamic> foo2 = {'foo' : 1}; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:48:49.566633 named type: final dynamic foo; FieldDeclarationImpl
+[avoid_dynamic] 2023-10-28T15:49:01.658904 named type: final dynamic foo = ''; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:49:01.659346 named type: final List<dynamic> foo1 = []; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:49:01.659742 named type: final Map<String, dynamic> foo2 = {'foo' : 1}; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:49:01.659903 named type: final dynamic foo; FieldDeclarationImpl
+[avoid_dynamic] 2023-10-28T15:49:02.058538 named type: final dynamic foo = ''; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:49:02.058980 named type: final List<dynamic> foo1 = []; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:49:02.059154 named type: final Map<String, dynamic> foo2 = {'foo' : 1}; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:49:02.059307 named type: final dynamic foo; FieldDeclarationImpl
+[avoid_dynamic] 2023-10-28T15:49:03.129582 named type: final dynamic foo = ''; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:49:03.130123 named type: final List<dynamic> foo1 = []; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:49:03.130312 named type: final Map<String, dynamic> foo2 = {'foo' : 1}; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:49:03.130444 named type: final dynamic foo; FieldDeclarationImpl
+[avoid_dynamic] 2023-10-28T15:49:43.768771 named type: final dynamic foo = ''; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:49:43.769156 named type: final List<dynamic> foo1 = []; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:49:43.769554 named type: final Map<String, dynamic> foo2 = {'foo' : 1}; VariableDeclarationStatementImpl
+[avoid_dynamic] 2023-10-28T15:49:43.769684 named type: final dynamic foo; FieldDeclarationImpl
+[avoid_dynamic] 2023-10-28T15:50:09.681804 named type: final dynamic foo = ''; false
+[avoid_dynamic] 2023-10-28T15:50:09.682187 named type: final List<dynamic> foo1 = []; false
+[avoid_dynamic] 2023-10-28T15:50:09.682627 named type: final Map<String, dynamic> foo2 = {'foo' : 1}; false
+[avoid_dynamic] 2023-10-28T15:50:09.682758 named type: final dynamic foo; false

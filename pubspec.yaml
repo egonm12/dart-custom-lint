@@ -1,0 +1,16 @@
+name: dart_custom_lint
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+
+environment:
+  sdk: ^3.1.0
+
+dependencies:
+  analyzer:
+  analyzer_plugin:
+  custom_lint:
+  custom_lint_builder:
+
+dev_dependencies:
+  test: ^1.21.0
+  very_good_analysis:
